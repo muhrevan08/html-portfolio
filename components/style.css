@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300&family=Silkscreen&display=swap');
+
+*,
+html,
+body {
+    font-family: 'JetBrains Mono', monospace;
+}
+
+.wrapper-profile {
+    text-align: center;
+}
+
+.textStyle {
+    text-align: justify;
+    font-size: 14px;
+    margin: 5px;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    font-size: 13px;
+    text-align: center;
+    font-weight: bold;
+}
